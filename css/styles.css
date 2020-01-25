@@ -1,7 +1,11 @@
 .first-pic {
   width: 90%;
+  padding-left: auto;
+  padding-right: auto;
 }
 .westin {
   width: 100%;
-
+}
+.four {
+  width:100%;
 }
