@@ -2,7 +2,7 @@ body img{
   margin-top: 5px;
 }
 .first-pic {
-  width: 90%;
+  width: 100%;
   padding-left: auto;
   padding-right: auto;
 }
@@ -20,4 +20,7 @@ h1 {
 }
 .picrow {
   width: 100%;
+}
+.pckg:hover {
+  background-color: #a1d4e4;
 }
